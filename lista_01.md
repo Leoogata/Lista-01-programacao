@@ -25,7 +25,7 @@ print(a);
 
 Escolha a opção que responde corretamente:
 
-X Imprime os números pares de 1 a 10. CORRETA
+X Imprime os números pares de 1 a 10. 
 
 b) Imprime os números ímpares de 1 a 10.
 
